@@ -1,10 +1,17 @@
-# Dangh Formulae
+# Homebrew Formulae
 
 ## How do I install these formulae?
 
-`brew install dangh/formulae/<formula>`
+```sh
+brew install dangh/formulae/pbmonitor
+```
 
-Or `brew tap dangh/formulae` and then `brew install <formula>`.
+Or
+
+```sh
+brew tap dangh/formulae
+brew install pbmonitor
+```
 
 ## Documentation
 
