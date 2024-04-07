@@ -4,13 +4,7 @@
 
 ```sh
 brew install dangh/formulae/pbmonitor
-```
-
-Or
-
-```sh
-brew tap dangh/formulae
-brew install pbmonitor
+brew install dangh/formulae/dark
 ```
 
 ## Documentation
