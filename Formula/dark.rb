@@ -2,7 +2,7 @@ class Dark < Formula
   desc "Homebrew formulae"
   homepage "https://github.com/dangh/dark"
   url "https://github.com/dangh/dark/releases/download/v0.0.1/dark"
-  sha256 "9e3b18dea9d99b6d13d1192bcbaa0a537dbe9f08d219777886602e3fe03da519"
+  sha256 "66117c6ccb4e5ef5db8b69bcc73761adf6bc69b24b99210f89b84e8cf53be4eb"
   license "MIT"
 
   def install
